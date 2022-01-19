@@ -102,58 +102,58 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### Harvard
 https://hwpi.harvard.edu/files/ocs/files/interviewing_1.pdf
 
-Traditional General Introduction Questions • Tell me about yourself.
-• How would a friend or professor who knows you well describe you?
-• What strengths would you bring to this position?
-• In what ways do you think you can make a contribution to our organization?
-• What are your long/short range goals and objectives? How will this job contribute towards
+Traditional General Introduction Questions * Tell me about yourself.
+* How would a friend or professor who knows you well describe you?
+* What strengths would you bring to this position?
+* In what ways do you think you can make a contribution to our organization?
+* What are your long/short range goals and objectives? How will this job contribute towards
 your achieving them?
-• Why did you choose Harvard Extension School? Your field of study/concentration?
-• What class have you taken that has had the greatest impact on your thinking?
-• If you could change something at Harvard what would it be?
-• What do you think it takes to be successful in this position/organization/field? In what
+* Why did you choose Harvard Extension School? Your field of study/concentration?
+* What class have you taken that has had the greatest impact on your thinking?
+* If you could change something at Harvard what would it be?
+* What do you think it takes to be successful in this position/organization/field? In what
 ways does this fit you?
-• What about this organization impresses you in comparison with others in the field?
+* What about this organization impresses you in comparison with others in the field?
 Case interviews step by step:
-• Repeat the question
-• Ask clarifying questions
-• Organize your thoughts
-• Share your thoughts on how you are solving the problem with the interviewer
-• Suggest solutions
+* Repeat the question
+* Ask clarifying questions
+* Organize your thoughts
+* Share your thoughts on how you are solving the problem with the interviewer
+* Suggest solutions
 Case Interview Tip: Don’t make things overly complicated. For example, if you need to know
 population sizes and quick math is needed, round the numbers to make them easily divisible.
-• What do you believe are the key issues and problems in the field/industry today?
-• Why do you want to work here?
-• Why should we hire you?
-Behavior-Themed Questions • Describe a situation in which you were required to work with people different from you.
-• Describe a time/activity when you were highly motivated to complete a task.
-• Tell me about a time when you were tolerant of an opinion that was different from yours.
-• Tell me about a time when you worked effectively under pressure.
-• Tell me about a time when you handled a difficult situation with a co-worker.
-• Tell me about a time when you were creative in solving a problem.
-• Describe a time when you were a leader. What is your leadership style?
-• Tell me about a time you made a mistake or failed at something.
+* What do you believe are the key issues and problems in the field/industry today?
+* Why do you want to work here?
+* Why should we hire you?
+Behavior-Themed Questions * Describe a situation in which you were required to work with people different from you.
+* Describe a time/activity when you were highly motivated to complete a task.
+* Tell me about a time when you were tolerant of an opinion that was different from yours.
+* Tell me about a time when you worked effectively under pressure.
+* Tell me about a time when you handled a difficult situation with a co-worker.
+* Tell me about a time when you were creative in solving a problem.
+* Describe a time when you were a leader. What is your leadership style?
+* Tell me about a time you made a mistake or failed at something.
 Questions to Ask Employers
-• What is your timeline for the interview process?
-• What will be the challenges for the person taking this job?
-• Do you have new initiatives planned for the next year?
-• What role will this position play in addressing these new initiatives?
-• Can you tell me how your career has developed at the organization?
-• I read on your website that you have a new office in Mumbai. Could you tell me more about
+* What is your timeline for the interview process?
+* What will be the challenges for the person taking this job?
+* Do you have new initiatives planned for the next year?
+* What role will this position play in addressing these new initiatives?
+* Can you tell me how your career has developed at the organization?
+* I read on your website that you have a new office in Mumbai. Could you tell me more about
 what you’re working on there?
-• Describe your ideal candidate to fill this position.
-• What do you enjoy most about working here?
-• Can you tell me about your career path?
-Questions the Interviewer Should Not Ask • What is your age? What is your date of birth? Were you born in the U.S.? Are you a citizen?
-• What is your race, color, religion, or national origin?
-• Do you have disabilities of any kind?
-• Have you ever been treated by a psychologist or a psychiatrist?
-• Are you taking any prescription medications?
-• Have you ever been treated for drug addiction or alcoholism?
-• Are you married, single, or divorced?
-• When do you plan to start a family?
-• Do you observe the Sabbath or any days that would interfere with this job schedule?
-• In some states, it is no longer legal to ask for salary history.
+* Describe your ideal candidate to fill this position.
+* What do you enjoy most about working here?
+* Can you tell me about your career path?
+Questions the Interviewer Should Not Ask * What is your age? What is your date of birth? Were you born in the U.S.? Are you a citizen?
+* What is your race, color, religion, or national origin?
+* Do you have disabilities of any kind?
+* Have you ever been treated by a psychologist or a psychiatrist?
+* Are you taking any prescription medications?
+* Have you ever been treated for drug addiction or alcoholism?
+* Are you married, single, or divorced?
+* When do you plan to start a family?
+* Do you observe the Sabbath or any days that would interfere with this job schedule?
+* In some states, it is no longer legal to ask for salary history.
 
 ## Programming Languages/Frameworks/Platforms
 
