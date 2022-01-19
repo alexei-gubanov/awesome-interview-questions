@@ -1,18 +1,3 @@
-<div align="center">	
-	<p>	
-		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
-      <div>	
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
-			</div>	
-      <br>
-			<b>All your environment variables, in one place</b>	
-			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
-			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
-			</br>
-		</a>	
-	</p>	
-</div>	
-
 # Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of lists of technical interview questions.
@@ -96,6 +81,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 - [Networks](#networks)
 - [Security](#security)
 - [Data Science](#data-science)
+- [Salary Negotiation](#salary)
 
 ## Behavioral interview questions
 
@@ -723,6 +709,9 @@ Questions the Interviewer Should Not Ask
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
+
+## Salary Negotiation
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 ### License
 
